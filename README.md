@@ -30,23 +30,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global data visualization market size is estimated at approximately **$11.8B – $13.7B in 2026** (projected to reach over **$22B by 2030** at an ~11% CAGR). The sector is **moderately concentrated at the enterprise BI layer** (dominated by major platforms such as Microsoft Power BI, Tableau/Salesforce, and Google Looker), but exhibits **significant fragmentation across developer-focused charting libraries and embedded analytics**, where independent vendors and open-source frameworks actively compete for developer adoption.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Highcharts (Commercial License)**  
-
-  **Pure JavaScript/TypeScript charting library** trusted by **80 of the world's 100 largest companies** . **Core library is free for personal and non-commercial use**; commercial license required for revenue-generating applications. **Zero dependencies**, **ES6 module support** with tree shaking, **WebGL/WebGPU** for millions of data points, and **built-in accessibility** (keyboard navigation, screen reader support, audio charts) . **Best for**: enterprises wanting a battle-tested, feature-complete charting library with commercial support.
+| Product | Valuation / Revenue | Starting Pricing | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **Highcharts** | ~$8M annual revenue (Highsoft AS) | $185 – $400/developer/year (Internal License); $500+/developer (Web/SaaS License) | Unlimited perpetual use for non-commercial/personal use, schools, and local non-production evaluation; commercial deployment requires a paid license. | Pure JavaScript/TypeScript charting suite trusted by 80 of Fortune 100 companies. Zero dependencies, WebGL/WebGPU acceleration, and full WCAG accessibility. |
 
 
 
