@@ -271,7 +271,7 @@ Contributions, suggestions, and corrections are warmly welcomed! 🌟
 
 1. 🍴 **Fork** the repository to your own GitHub account.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-visualization-tool`).
-3. 📝 **Add your entry** under the appropriate section following the existing markdown formatting, star count, and license conventions.
+3. 📝 **Add your entry** under the appropriate section following the existing markdown formatting, Stars_Count, and license conventions.
 4. 🚀 **Commit your changes** (`git commit -m 'feat: add CoolViz library'`).
 5. 📬 **Push and open a Pull Request** with a brief summary of why the library is notable.
 
@@ -297,3 +297,12 @@ Thank you for exploring and bookmarking **Awesome Data Visualization**! If this 
 - ⭐ **Star this repository** to help other developers discover it!
 - 🍴 **Fork and share** it across your team, community, and social networks.
 - ☕ **Support the maintainer**: If you would like to buy a coffee or sponsor ongoing maintenance, please visit the [**GitHub Sponsors Dashboard**](https://github.com/sponsors/ishandutta2007).
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Data-Visualization&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Data-Visualization_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Data-Visualization_growth.svg">
+  </picture>
+</a>
